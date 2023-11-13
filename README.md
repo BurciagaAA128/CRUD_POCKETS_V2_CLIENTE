@@ -1,2 +1,2 @@
-# CRUD_POCKETS_V2_CLIENTE
-Crud tabla cliente
+# Screenshot
+![](docs/screenshot.png)
